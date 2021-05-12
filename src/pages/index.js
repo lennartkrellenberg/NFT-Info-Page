@@ -102,7 +102,7 @@ const IndexPage = () => {
           fluid={imageData}
         >
           <div className={stylesheet.heroContent}>
-            <h1>NFT - Non-Fungible Token </h1>
+            <h1>Test</h1>
           </div>
         </BackgroundImage>
       </section>
