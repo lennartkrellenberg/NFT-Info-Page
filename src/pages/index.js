@@ -1,4 +1,5 @@
 import * as React from "react"
+import { Helmet } from "react-helmet"
 import * as stylesheet from "../style/global.module.scss"
 import { graphql, useStaticQuery } from 'gatsby'
 import { Link } from "gatsby"
@@ -96,13 +97,18 @@ const IndexPage = () => {
 
   return (
     <div>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>NFT Info Page</title>
+        <meta name="description" content="Eine Webseite für den Kunst Unterricht, über NFTs" />
+      </Helmet>
       <section id={stylesheet.hero}>
         <BackgroundImage
           className={stylesheet.background}
           fluid={imageData}
         >
           <div className={stylesheet.heroContent}>
-            <h1>Test</h1>
+            <h1>NFT - Non-Fungible Token</h1>
           </div>
         </BackgroundImage>
       </section>
@@ -275,6 +281,10 @@ const IndexPage = () => {
           </div>
 
 
+        </section>
+
+        <section id={stylesheet.footer}>
+          <Link id={stylesheet.website} to="https://www.lennartkrellenberg.com/">Created by Lennart Krellenberg</Link>
         </section>
 
 
