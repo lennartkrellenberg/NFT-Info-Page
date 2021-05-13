@@ -164,8 +164,8 @@ const IndexPage = () => {
             >
               <div className={stylesheet.exampleOverlay}>
                 <div>
-                  <h3>Lorem Ipsum</h3>
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                  <h3>Hashmasks #6054</h3>
+                  <p>                    Hashmasks sind virtuelle Kunstwerke, die von einem weltweit verteilten Team von 70 Künstlern unter der Leitung von Suum Cuique Labs geschaffen werden</p>
                 </div>
                 <button onClick={() => window.open("https://opensea.io/assets/0xc2c747e0f7004f9e8817db2ca4997657a7746928/6054")}>Mehr Infos</button>
               </div>
@@ -182,8 +182,8 @@ const IndexPage = () => {
             >
               <div className={stylesheet.exampleOverlay}>
                 <div>
-                  <h3>Lorem Ipsum</h3>
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                  <h3>CryptoPunk #7804</h3>
+                  <p>Die CryptoPunks sind eine Sammlung von 24x24 Pixel-Art-Bildern im 8-Bit-Stil von Außenseitern und Exzentrikern. Es gibt genau 10.000 von ihnen.</p>
                 </div>
                 <button onClick={() => window.open("https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/7804")}>Mehr Infos</button>
               </div>
@@ -196,8 +196,8 @@ const IndexPage = () => {
             >
               <div className={stylesheet.exampleOverlay}>
                 <div>
-                  <h3>Lorem Ipsum</h3>
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                  <h3>Bored Ape Yacht Club</h3>
+                  <p>Es ist eine Sammlung von 10.000 einzigartigen Bored Ape NFTs - einzigartige digitale Sammlerstücke, die auf der Ethereum-Blockchain leben. Das Kunstwerk dient außerdem als Mitgliedskarte für den Yacht Club.</p>
                 </div>
                 <button onClick={() => { window.open("https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/8746") }}>Mehr Infos</button>
               </div>
@@ -210,8 +210,8 @@ const IndexPage = () => {
             >
               <div className={stylesheet.exampleOverlay}>
                 <div>
-                  <h3>Lorem Ipsum</h3>
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                  <h3>GOAT</h3>
+                  <p>Diese Zusammenarbeit zwischen Beeple und Peter France wurde mit Cinema 4D, Bellus3D für die Köpfe, Octane Render und Adobe Photoshop erstellt.</p>
                 </div>
                 <button onClick={() => { window.open("https://opensea.io/assets/0x2a46f2ffd99e19a89476e2f62270e0a35bbf0756/50472") }}>Mehr Infos</button>
               </div>
@@ -222,8 +222,8 @@ const IndexPage = () => {
             >
               <div className={stylesheet.exampleOverlay}>
                 <div>
-                  <h3>Lorem Ipsum</h3>
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                  <h3>EVERYDAYS: THE FIRST 5000 DAYS</h3>
+                  <p>Es ist ein digitales Kunstwerk von Mike Winkelmann, professionell bekannt als Beeple. Die Arbeit ist eine Collage aus 5000 digitalen Bildern, die Winkelmann für seine Serie "Everydays" erstellt hat.</p>
                 </div>
                 <button onClick={() => window.open("https://onlineonly.christies.com/s/beeple-first-5000-days/beeple-b-1981-1/112924?ldp_breadcrumb=back")}>Mehr Infos</button>
               </div>
@@ -236,8 +236,8 @@ const IndexPage = () => {
             >
               <div className={stylesheet.exampleOverlay}>
                 <div>
-                  <h3>Lorem Ipsum</h3>
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                  <h3>EthBoy</h3>
+                  <p> Vitalik Buterin wird in diesem Kunstwerk ähnlich wie Picassos Sohn Paulo, der als Harlekin gekleidet ist, dargestellt.</p>
                 </div>
                 <button onClick={() => window.open("https://opensea.io/assets/0xb6dae651468e9593e4581705a09c10a76ac1e0c8/807")}>Mehr Infos</button>
               </div>
@@ -250,8 +250,8 @@ const IndexPage = () => {
             >
               <div className={stylesheet.exampleOverlay}>
                 <div>
-                  <h3>Lorem Ipsum</h3>
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                  <h3>Right Place & Right Time</h3>
+                  <p>Jeden Tag wird eine neue Komposition für den Besitzer autonom generiert, indem ein Datenfeed der letzten 24 Stunden des Bitcoin-Kurses verwendet wird. Der Preis jeder Stunde steuert programmatisch die Rotation, Skalierung und Position einer korrelierenden Schicht. </p>
                 </div>
                 <button onClick={() => window.open("https://opensea.io/assets/0xb6dae651468e9593e4581705a09c10a76ac1e0c8/245")}>Mehr Infos</button>
               </div>
@@ -264,8 +264,9 @@ const IndexPage = () => {
             >
               <div className={stylesheet.exampleOverlay}>
                 <div>
-                  <h3>Lorem Ipsum</h3>
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                  <h3>art#boi</h3>
+                  <p>Dieses Kunstwerk wurde kürzlich für 310.957,56 Euro verkauft und wurde von iamlirona
+ erstellt</p>
                 </div>
                 <button onClick={() => window.open("https://opensea.io/assets/0x60f80121c31a0d46b5279700f9df786054aa5ee5/230611")}>Mehr Infos</button>
               </div>
